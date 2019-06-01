@@ -1,0 +1,5 @@
+No auto pull for ipd investigation
+Vitals not updated when data updated in ipd vitals
+No need for invstigation along with radiology and lab test present
+Whether IPD stitch removal reminder is given to patient or not.
+Outstanding bill in IPD is showing even after the patient is discharged
